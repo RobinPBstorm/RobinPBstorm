@@ -1,4 +1,10 @@
-## Hi there 👋
+# Qui suis-je ?
+
+Je suis **formateur en développement** chez **[BStorm](https://bstorm.odoo.com/)** et **développeur Full-Stack**.
+
+# Que pouvez trouver ici ?
+
+Toutes les démonstrations et exercices réalisées avec les différents apprenants.
 
 <!--
 **RobinPBstorm/RobinPBstorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
