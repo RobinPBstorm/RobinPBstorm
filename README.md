@@ -2,6 +2,8 @@
 
 Je suis **formateur en développement** chez **[BStorm](https://bstorm.odoo.com/)** et **développeur Full-Stack**.
 
+Mon niveau sur [code wars](https://www.codewars.com/)![codewars logo](https://www.codewars.com/packs/assets/logo.f607a0fb.svg): ![codewars level](https://www.codewars.com/users/RobinPBstorm/badges/large)
+
 # Que pouvez trouver ici ?
 
 Toutes les démonstrations et exercices réalisées avec les différents apprenants.
